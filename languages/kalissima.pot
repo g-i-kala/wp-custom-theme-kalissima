@@ -1,0 +1,193 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Kalissima Basic Blog Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-25 07:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.7.1; wp-6.7.2\n"
+"X-Domain: kalissima"
+
+#: comments.php:40
+msgid "&larr; Older Comments"
+msgstr ""
+
+#. Name of the template
+#: archive.php:2
+msgid "Archives"
+msgstr ""
+
+#: template-parts/content/content-all-posts.php:13
+msgid "Blog Posts"
+msgstr ""
+
+#: template-parts/post/content-post.php:12
+msgid "By"
+msgstr ""
+
+#: comments.php:39
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:45
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:17
+#, php-format
+msgctxt "comments title"
+msgid "One thought on \"%2$s\""
+msgid_plural "%1$s thoughts on \"%2$s\""
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:276
+msgid "Contact Form WSform ID"
+msgstr ""
+
+#. Name of the template
+#: theme-templates/page-contact.php:2
+msgid "Contact Page"
+msgstr ""
+
+#: functions.php:279
+msgid "Enter the WS Form ID for your contact form. "
+msgstr ""
+
+#: functions.php:266
+msgid "Enter the WS Form ID for your newsletter form."
+msgstr ""
+
+#: template-parts/content/content-sticky-posts.php:19
+msgid "Featured Posts"
+msgstr ""
+
+#: functions.php:290
+msgid "Footer Widget"
+msgstr ""
+
+#: functions.php:190 front-page.php:23 theme-templates/page-home.php:25
+msgid "Hero Image"
+msgstr ""
+
+#. Name of the template
+#: theme-templates/page-home.php:2
+msgid "Home Page Fallback"
+msgstr ""
+
+#. Author of the theme
+msgid "Kalissima"
+msgstr ""
+
+#. Name of the theme
+msgid "Kalissima Basic Blog Theme"
+msgstr ""
+
+#: template-parts/header/site-header.php:32
+msgid "Main Navigation"
+msgstr ""
+
+#: comments.php:41
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: functions.php:263
+msgid "Newsletter WSform ID"
+msgstr ""
+
+#: single.php:24
+msgid "Next Post"
+msgstr ""
+
+#: functions.php:227
+msgid "No Menu Assigned"
+msgstr ""
+
+#: search.php:33
+msgid "No posts found."
+msgstr ""
+
+#: theme-templates/page-contact.php:27
+msgid "Please set a WSForm ID in the Customizer."
+msgstr ""
+
+#: template-parts/footer/newsletter-form.php:10
+msgid "Please set your newsletter form ID in the Customizer."
+msgstr ""
+
+#: single.php:25
+msgid "Previous Post"
+msgstr ""
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr ""
+
+#: template-parts/content/content-preview.php:24
+msgid "Read More"
+msgstr ""
+
+#: template-parts/footer/search-form.php:4
+msgid "Search the page"
+msgstr ""
+
+#: functions.php:58
+msgid "Secondary Menu"
+msgstr ""
+
+#: archive.php:31
+msgid "Select month, category or use the search box."
+msgstr ""
+
+#: functions.php:300
+msgid "Show Footer Widget"
+msgstr ""
+
+#: functions.php:251
+msgid "Show Newsletter Form"
+msgstr ""
+
+#: template-parts/footer/sidebar-footer.php:16
+#: template-parts/header/site-header.php:13
+msgid "Site Logo"
+msgstr ""
+
+#: archive.php:37 template-parts/footer/search-form.php:7
+msgid "Site search"
+msgstr ""
+
+#: header.php:22
+msgid "Skip to content"
+msgstr ""
+
+#: template-parts/footer/newsletter-form.php:4
+msgid "Subscribe to the Newsletter"
+msgstr ""
+
+#: template-parts/header/site-header.php:24
+msgid "Toggle navigation"
+msgstr ""
+
+#: functions.php:202
+msgid "Upload Hero Image"
+msgstr ""
+
+#: template-parts/footer/footer-copyright.php:6
+msgid "Visit the author's website"
+msgstr ""
+
+#: functions.php:241
+msgid "WSform Integration"
+msgstr ""
+
+#: functions.php:215
+msgid "⚠️ Navigation Notice"
+msgstr ""

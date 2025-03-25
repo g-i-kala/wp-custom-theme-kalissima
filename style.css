@@ -288,6 +288,8 @@ img {
 .footer-menu {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
+	justify-content: center;
 }
 
 .newsletter-section {

@@ -35,6 +35,11 @@ if ( ! function_exists( 'kalissima_setup' ) ) :
 		 */
 		load_theme_textdomain( 'kalissima', get_template_directory() . '/languages' );
 
+         /**
+		 * Add title tag to <head>.
+		 */
+        add_theme_support('title-tag');
+
 		/**
 		 * Add default posts and comments RSS feed links to <head>.
 		 */
